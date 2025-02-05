@@ -1,5 +1,11 @@
 ## FLOW
 
+Enquiry TG: https://t.me/demlinks
+
+TG Community: https://t.me/demlinkschannel
+
+Discord Community: https://discord.gg/UEmCAbhz9W
+
 #install
 	- setup the Node.js
 	Go to the Node.js Downloads page(https://nodejs.org/en/download)
